@@ -33,7 +33,7 @@ function Home() {
   }, []);
 
   return (
-    <div className='container' style={{ height: '100vh', marginTop: '10px' }}>
+    <div className='container' style={{ height: '110vh', marginTop: '10px' }}>
       <div className='d-flex justify-content-center' style={{ height: '100%' }}>
         <div className='container-fluid' style={{ maxWidth: '500px' }}>
           <h2 className='text-center '>Welcome🙏 to Our Blog Hub</h2>
