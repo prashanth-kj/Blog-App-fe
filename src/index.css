@@ -1,0 +1,27 @@
+
+.navbar-collapse{
+      display: flex;
+      margin: 10px;
+}
+
+.nav-items{
+      display: flex;
+      gap: 20px;
+}
+
+/* .blog-wrapper{
+      margin: 0% 30% 0% 30%;
+      padding: 10px;
+} */
+/* .card{
+     margin: 10px;
+} */
+
+.cursor-pointer{
+       cursor: pointer;
+}
+
+.adminblog{
+        display: flex;
+        justify-content: flex-start;
+}
