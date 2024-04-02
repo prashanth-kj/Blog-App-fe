@@ -44,7 +44,7 @@ function SignIn() {
   return <>
       <div className='container ' style={{ height:'100vh'}}>
           <div className='d-flex justify-content-center align-items-center' style={{height:"100%"}}>
-               <div className='container-fluid shadow p-4' style={{maxWidth:"400px"}}>
+               <div className='container-fluid shadow p-4 rounded-5' style={{maxWidth:"400px"}}>
                  <div>
                      <h3 className='text-center' style={{fontFamily:"sans-serif",color:"crimson"}}> <FiBook size={"24px"} className='mb-1 mx-2'/>Blog App</h3>
                  </div>
